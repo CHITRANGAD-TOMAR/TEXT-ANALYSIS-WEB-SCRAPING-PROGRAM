@@ -1,0 +1,10 @@
+simple to use just copy all the files to a folder and then run the "run.py" file 
+(it will automaticall download all the required dependencies) 
+
+After, the code Executed successfully the results will be stored in the "output.csv" file present in the same folder
+
+
+
+& you can also make changes in the "input.xlsx" file.
+(kindly take care of blank spaces in excel file)
+

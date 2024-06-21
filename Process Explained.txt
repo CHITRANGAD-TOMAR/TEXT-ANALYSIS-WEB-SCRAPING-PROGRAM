@@ -1,0 +1,8 @@
+1. read urlid,url from the "input.xlsx" file.
+2. using python request and bs4 module, we fetch the title and article from the webpage using tags and classid.
+3. store the article details in a text file using concept of file handling.
+4. read the text file containg article than perform data cleaning.
+5. we will clean the data for this first we will read the stopwords files store the stopwords in a list then remove stopwords from our data and call it as filtered data.
+6. similarly we will read the MasterDictionary files and store the results in two lists positive and negative which we will use for text filteing.
+7. then we will calculate all the parametes like positive score, word length, etc..
+8. in last we will store the results in a csv file.
